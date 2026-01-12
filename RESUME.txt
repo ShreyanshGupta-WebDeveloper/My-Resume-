@@ -1,0 +1,67 @@
+# Shreyansh Gupta
+**Full Stack Web Developer | React Specialist | Software Engineer**
+
+📍 Location: India  
+📧 Email: shreyansh@example.com  
+🔗 GitHub: github.com/ShreyanshGupta-FullStackDeveloper  
+🔗 LinkedIn: linkedin.com/in/shreyansh-gupta  
+
+---
+
+## Summary
+Experienced **Full Stack Web Developer** with 7+ years of expertise in designing, developing, and deploying scalable web applications. Master in **React.js** with strong proficiency in modern JavaScript frameworks, backend systems, and cloud platforms. Adept at leading projects, mentoring teams, and delivering high‑quality solutions across diverse industries.
+
+---
+
+## Skills
+- **Frontend:** React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, TailwindCSS, Bootstrap  
+- **Backend:** Node.js, Express.js, Ruby on Rails, FastAPI  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Cloud & DevOps:** AWS, Docker, GitHub Actions, CI/CD pipelines  
+- **Other Languages:** Python, Dart (Flutter), TypeScript  
+- **Tools:** Git, VS Code, Jira, Figma  
+
+---
+
+## Professional Experience
+
+**Senior Full Stack Developer**  
+*XYZ Tech Solutions* — 2019–Present  
+- Led development of enterprise‑level applications using React, Node.js, and AWS.  
+- Designed scalable APIs and integrated cloud services for high‑traffic platforms.  
+- Mentored junior developers and improved team productivity by 30%.  
+- Collaborated with cross‑functional teams to deliver projects on time and within budget.  
+
+**Web Developer**  
+*ABC Software Pvt Ltd* — 2015–2019  
+- Built responsive web applications with React and modern JavaScript frameworks.  
+- Developed backend services with Express.js and PostgreSQL.  
+- Implemented automated testing and CI/CD pipelines to streamline deployments.  
+- Enhanced application performance and reduced load times by 40%.  
+
+---
+
+## Education
+**Bachelor of Technology (B.Tech) in Computer Science**  
+University of XYZ — 2011–2015  
+
+---
+
+## Projects
+- **Portfolio Website** – Personal portfolio showcasing projects and skills.  
+- **E‑Commerce Platform** – Full stack application with payment integration and cloud deployment.  
+- **Open Source Contributions** – Active contributor to GitHub projects in React and Node.js.  
+
+---
+
+## Certifications
+- AWS Certified Developer – Associate  
+- React Advanced Development – Udemy  
+- Full Stack Web Development – Coursera  
+
+---
+
+## Contact
+📧 Email: shreyansh@example.com  
+🔗 LinkedIn: linkedin.com/in/shreyansh-gupta  
+🔗 GitHub: github.com/ShreyanshGupta-FullStackDeveloper  
